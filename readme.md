@@ -1,0 +1,1 @@
+## Simple authorization system (like JWT)
